@@ -10,6 +10,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //task1
+            string vardas;
+            Console.Write("Iveskite savo varda: ");
+            vardas = Console.ReadLine();
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(vardas);
+            }
+            Console.ReadLine();
         }
     }
 }
