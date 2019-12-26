@@ -10,6 +10,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+            //Task4 dalus skaiciai is 3 nuoi 0 iki 100
             int liekana = 0;
             for (int i = 0; i <= 100; i++)
             {
