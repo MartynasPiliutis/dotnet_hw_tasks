@@ -23,6 +23,7 @@ namespace ConsoleApp12
             }
             Console.WriteLine();
             Console.ReadLine();
+
             Array.Sort(masyvas);
 
             foreach (var item in masyvas)
